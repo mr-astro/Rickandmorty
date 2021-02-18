@@ -1,4 +1,4 @@
-# treekin
+# Rick and Morty
 
 pagina github
 https://github.com/mr-astro
