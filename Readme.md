@@ -3,5 +3,5 @@
 pagina github
 https://github.com/mr-astro
 
-pagina del desafio barbershop
+pagina del desafio Rick & Morthy
 https://mr-astro.github.io/Rickandmorty
